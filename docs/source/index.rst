@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Ilona's testdocumentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
