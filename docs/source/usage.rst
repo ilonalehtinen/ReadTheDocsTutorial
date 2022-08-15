@@ -32,3 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+New chapter in the user manual here
+----------------
+
+Here is my new chapter for the user manual. I will create new branch for this. 
